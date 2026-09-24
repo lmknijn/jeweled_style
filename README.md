@@ -5,6 +5,7 @@ Python code and results of the methods will be uploaded here.
 So far, the list of stylistic features I'm working on includes:
   - Chiasmus
   - Polyptoton
+  - Golden and silver lines
   - Homoeoteleuton
   - Paronomasia
   - Anaphora
